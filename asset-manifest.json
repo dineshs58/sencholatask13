@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/sencholatask13/static/css/main.a8a9344d.css",
+    "main.js": "/sencholatask13/static/js/main.5080832b.js",
+    "static/js/787.b56f082d.chunk.js": "/sencholatask13/static/js/787.b56f082d.chunk.js",
+    "static/media/r2.jpg": "/sencholatask13/static/media/r2.f3ff1bba56cc27ad750b.jpg",
+    "static/media/login.jpg": "/sencholatask13/static/media/login.83539cb53688050564d9.jpg",
+    "index.html": "/sencholatask13/index.html",
+    "main.a8a9344d.css.map": "/sencholatask13/static/css/main.a8a9344d.css.map",
+    "main.5080832b.js.map": "/sencholatask13/static/js/main.5080832b.js.map",
+    "787.b56f082d.chunk.js.map": "/sencholatask13/static/js/787.b56f082d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a8a9344d.css",
+    "static/js/main.5080832b.js"
+  ]
+}
