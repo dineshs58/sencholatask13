@@ -1,0 +1,12 @@
+.header
+{
+    text-align: center;
+}
+.content p span{
+    font-weight: 700;
+    
+}
+.column
+{
+    height:600px !important;
+}

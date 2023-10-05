@@ -1,0 +1,13 @@
+.headerhome
+{
+  width:100%;
+  background-color: rgb(25, 25, 26);
+  color:#ffff;
+  padding:20px;
+
+}
+a{
+  color:#ffff !important;
+  text-decoration: none !important;
+  margin-left:50px;
+}
